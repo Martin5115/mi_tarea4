@@ -2,7 +2,19 @@
 
 **Curso:** Programación WEB · ITLA · 2026-C-003
 **Profesor:** Raydelto Hernández
-**Estudiante:** _Tu nombre y matrícula aquí_
+**Estudiante:** Martin Gomez
+**Matricula:** 2024-2481
+
+## Capturas de pantallas:
+
+<img width="581" height="370" alt="image" src="https://github.com/user-attachments/assets/e1c21884-0164-48bf-b184-249cde3abb15" />
+
+<img width="581" height="370" alt="image" src="https://github.com/user-attachments/assets/503f2cf6-ea5c-45a8-8070-2d413ac240da" />
+
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/a374ce5d-b1d8-48ea-8435-d76c8e6b04bb" />
+
+
+
 
 Agenda de contactos hecha con **React**. Es la versión en React de la Tarea 3
 (Agenda Multicapas): mismo diseño y mismas funciones, pero dividida en
