@@ -8,6 +8,18 @@ Agenda de contactos hecha con **React**. Es la versión en React de la Tarea 3
 (Agenda Multicapas): mismo diseño y mismas funciones, pero dividida en
 componentes.
 
+## Capturas de pantallas:
+
+
+<img width="389" height="536" alt="image" src="https://github.com/user-attachments/assets/9643c8bb-a1d0-4cfd-813e-1e175890f630" />
+
+<img width="581" height="370" alt="image" src="https://github.com/user-attachments/assets/e1c21884-0164-48bf-b184-249cde3abb15" />
+
+<img width="581" height="370" alt="image" src="https://github.com/user-attachments/assets/503f2cf6-ea5c-45a8-8070-2d413ac240da" />
+
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/a374ce5d-b1d8-48ea-8435-d76c8e6b04bb" />
+
+
 ## Qué hace
 
 - Muestra la lista de contactos guardados, ordenados y agrupados por la inicial del nombre.
