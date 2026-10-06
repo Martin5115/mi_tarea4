@@ -11,6 +11,7 @@ componentes.
 
 ## Capturas de pantallas:
 
+<img width="176" height="51" alt="image" src="https://github.com/user-attachments/assets/7e845f67-8a63-4cbd-820b-323ddcce2a87" />
 
 <img width="389" height="536" alt="image" src="https://github.com/user-attachments/assets/9643c8bb-a1d0-4cfd-813e-1e175890f630" />
 
