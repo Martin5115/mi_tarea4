@@ -2,7 +2,8 @@
 
 **Curso:** Programación WEB · ITLA · 2026-C-003
 **Profesor:** Raydelto Hernández
-**Estudiante:** _Tu nombre y matrícula aquí_
+**Estudiante:** Martin Gomez
+**Matricula:** 2024-2481
 
 Agenda de contactos hecha con **React**. Es la versión en React de la Tarea 3
 (Agenda Multicapas): mismo diseño y mismas funciones, pero dividida en
