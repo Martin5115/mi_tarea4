@@ -14,6 +14,8 @@ componentes.
 
 <img width="389" height="536" alt="image" src="https://github.com/user-attachments/assets/9643c8bb-a1d0-4cfd-813e-1e175890f630" />
 
+<img width="639" height="425" alt="image" src="https://github.com/user-attachments/assets/972c531e-7bd6-4d9e-953b-9feb8f014939" />
+
 <img width="581" height="370" alt="image" src="https://github.com/user-attachments/assets/e1c21884-0164-48bf-b184-249cde3abb15" />
 
 <img width="581" height="370" alt="image" src="https://github.com/user-attachments/assets/503f2cf6-ea5c-45a8-8070-2d413ac240da" />
